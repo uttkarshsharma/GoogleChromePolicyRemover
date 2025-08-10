@@ -1,4 +1,5 @@
-# Chrome Policy Remover for Windows
+# GoogleChromePolicyRemover
+## Chrome Policy Remover for Windows
 
 **Version**: 1.0  
 **Date**: 21 May 2022  
